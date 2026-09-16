@@ -1,0 +1,13 @@
+# Build outputs
+Debug/
+Release/
+*.elf
+*.bin
+*.hex
+*.map
+*.o
+*.d
+*.su
+
+# Workspace metadata
+.metadata/
